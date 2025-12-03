@@ -3,4 +3,4 @@
 เพื่อที่จะได้เห็นภาพมากขึ้นในการต่อยอดในอนาคต
 
 # Test Site
-[https://ansunotmyname.github.io/plus_gate/](https://ansunotmyname.github.io/plus_gate/)
+[https://ansunotmyname.github.io/plus_gate/](https://an-az.github.io/plus_gate/)
